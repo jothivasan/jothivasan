@@ -2,7 +2,7 @@
 
 # Hi, I'm Jothivasan J 👋
 
-### Full-Stack Developer · React · Node.js · TypeScript
+### Full-Stack Developer 
 
 Full-Stack Developer with 2+ years of experience building scalable web applications from UI design through deployment. Currently developing SaaS products for Australian taxation and business workflows.
 
